@@ -8,6 +8,7 @@
 - Git (optional but recommended)
 - Nuxt Js
 - Cocart Api
+- Packages used refer to the package.json file
 
 ### Installation
 1. Clone this repository.
